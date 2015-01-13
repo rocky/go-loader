@@ -136,7 +136,7 @@ import (
 	"os"
 	"strings"
 
-	"golang.org/x/tools/astutil"
+	"github.com/rocky/go-astutil"
 	"github.com/rocky/go-gcimporter"
 	"github.com/rocky/go-types"
 )
