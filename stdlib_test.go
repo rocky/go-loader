@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"golang.org/x/tools/go/buildutil"
+	"github.com/rocky/go-buildutil"
 	"github.com/rocky/go-loader"
 	"github.com/rocky/go-types"
 )
