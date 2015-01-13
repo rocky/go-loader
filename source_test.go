@@ -13,7 +13,7 @@ import (
 	"strings"
 	"testing"
 
-	"golang.org/x/tools/astutil"
+	"github.com/rocky/go-astutil"
 	"github.com/rocky/go-loader"
 	"github.com/rocky/ssa-interp"
 )
